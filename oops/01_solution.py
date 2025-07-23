@@ -96,3 +96,4 @@ new_electric_car = ElectricCarTwo("Tesla", "Model S")
 
 print(new_electric_car.battery_details())
 print(new_electric_car.engine_details())
+print(Car.total_car)
